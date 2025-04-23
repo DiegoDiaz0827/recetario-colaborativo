@@ -1,2 +1,4 @@
 # BANDEJA PAISA
 La bandeja paisa es el plato insignia de la gastronomía paisa y uno de los platos más representativos de Colombia. Es propio de los departamentos de la región Paisa: Antioquia, Caldas, Risaralda y Quindío.
+# INGREDIENTES
+La bandeja Paisa tiene frijol, arroz, aguacate, huevo, eh, chicharrón, carne molida, huevo em chicharrón, frijoles, carne molida, chorizo, arepa.
