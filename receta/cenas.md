@@ -16,3 +16,6 @@ La receta de salsa carbonara es el clásico por excelencia de la cocina italiana
     Poner a hervir 1 litro de agua. Una vez que el agua haya hervido, agregar el contenido de los sobres de caldo en polvo y los espaguettis, cocinar por el tiempo que diga en las instrucciones de la pasta.
     Mientras tanto, derretir la mantequilla en un sartén agregar el tocino picado y cocinar hasta que esté dorado. Agregar el ajo y revolver hasta integrar; apagar el fuego.
     Sacar los tallarines del caldo (reservando al menos 3 tazas de el caldo de cocción) y agregarlos al sartén con el tocino. Agregar los huevos batidos, parmesano y revolver hasta integrar. Agregar caldo de la cocción reservado, lo suficiente para tener una salsa cremosa. Servir la pasta inmediatamente, espolvoreando pimienta fresca.
+
+# INFORMACION NUTRCIONAL
+Una porción (aproximadamente 200-250g) puede contener entre 400 y 800 calorías, dependiendo de la receta y el tipo de pasta utilizada
