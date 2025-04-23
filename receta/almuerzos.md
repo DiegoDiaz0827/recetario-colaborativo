@@ -41,3 +41,12 @@ PASO 9 Sirve y disfruta
 
     10.En 4 bandejas o 4 platos sirve arroz, fríjoles, carne molida, chicharrón, chorizo, huevo, aguacate, arepa y 1 tajada de plátano maduro, todo en porciones iguales.
 
+# INFORMACION NUTRICIONAL
+Carbohidratos 	72.3 g
+Energía 	1002.6 kcal
+Grasas 	59.6 g
+Fibra 	17 g
+Proteína 	38.4 g
+Grasas saturadas 	18.6 g
+Sodio 	914 mg
+Azúcares 	7.6 g
