@@ -27,3 +27,5 @@ entre 5 a 10 minutos
 Puedes hacer la salsa de miel con anterioridad; solo necesitas calentarla antes de servir. 
 -consejo 2
 Los mini panqueques también se pueden preparar con anterioridad. Si no los vas a usar inmediatamente puedes congelarlos: solo guárdalos en un recipiente hermético o una bolsa. 
+# aportacion nutricional
+-Son una fuente de carbohidratos, que proporcionan energía, y pueden contener proteínas, especialmente si se usan huevos y/o ingredientes como la avena
