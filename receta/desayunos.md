@@ -20,3 +20,5 @@
 6.Una vez que burbujee en la parte superior de la vuelte y cocine por un minuto más.
 7.Proceda de la misma manera con el resto de la masa.
 8.Sirva los pancakes calientes acompañados de Miel San Luis.
+# tiempo de preparacion->
+entre 5 a 10 minutos
