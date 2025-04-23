@@ -1,1 +1,2 @@
 # PASTAS A LA CARBONARA
+La receta de salsa carbonara es el clásico por excelencia de la cocina italiana. La pasta carbonara es un plato originario de la región de Lacio. Una receta elaborada con huevo, guanciale, queso y pimienta negra.
