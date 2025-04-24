@@ -1,1 +1,2 @@
 # Carne a la llanera con yuca y plátano maduro asado
+Cuando se sirven juntas, la carne a la llanera y la yuca crean una comida satisfactoria y culturalmente significativa. El sabor robusto y ahumado de la carne de res asada lentamente se combina maravillosamente con el sabor simple y ligeramente dulce y la textura suave de la yuca hervida. Esta combinación es un verdadero sabor de los Llanos colombianos, a menudo disfrutado durante reuniones, celebraciones y como parte habitual de la cocina regional.
