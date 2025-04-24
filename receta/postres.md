@@ -1,1 +1,2 @@
 # ARROZ CON LECHE
+El arroz con leche es un postre típico de la gastronomía de múltiples países hecho cociendo lentamente arroz con leche y azúcar. Se sirve frío o caliente y se le suele espolvorear canela, vainilla o cáscara de limón por encima para aromatizarlo.
