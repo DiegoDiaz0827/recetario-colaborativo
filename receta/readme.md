@@ -4,13 +4,13 @@
 
 ## Categorías
 
-* [Desayunos](recetas/desayunos.md)
-* [Almuerzos](recetas/almuerzos.md)
-* [Cenas](recetas/cenas.md)
-* [Postres](recetas/postres.md)
-* [Vegetariano](recetas/vegetariano.md)
-* [Sin Gluten](recetas/sin_gluten.md)
-* [Rápidas](recetas/rapidas.md)
-* [Internacional](recetas/internacional.md)
-* [Bebidas](recetas/bebidas.md)
-* [Snacks](recetas/snacks.md)
+* [Desayunos](receta/desayunos.md)
+* [Almuerzos](receta/almuerzos.md)
+* [Cenas](receta/cenas.md)
+* [Postres](receta/postres.md)
+* [Vegetariano](receta/vegetariano.md)
+* [Sin Gluten](receta/sin_gluten.md)
+* [Rápidas](receta/rapidas.md)
+* [Internacional](receta/internacional.md)
+* [Bebidas](receta/bebidas.md)
+* [Snacks](receta/snacks.md)
