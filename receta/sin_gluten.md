@@ -16,3 +16,6 @@ Ingredientes para la Yuca Cocida:
     Agua: Cantidad suficiente para cubrir la yuca al cocinar.
     Sal: Una pizca (opcional, para el agua de cocción).
 
+
+# preparacion
+La clave de la carne a la llanera reside en su preparación sencilla pero experta. La carne de res se sazona de forma minimalista, a menudo solo con sal. En algunas variaciones, se pueden usar ajo, pimienta y comino con moderación para realzar el sabor natural de la carne. La carne sazonada se ensarta en grandes estacas de metal o madera (chuzos o varas).
