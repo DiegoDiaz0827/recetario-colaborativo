@@ -50,3 +50,11 @@ PASO 7 Sirve y disfruta
 
     7.Agrega al sartén o paellera todos los mariscos por encima, deja cocinar por 1 minuto mas. Por ultimo decora con el perejil, cascos de limón y sirve.
 
+# INFORMACION NUTRICIONAL
+Carbohidratos 	87.4 g
+Energía 	719.5 kcal
+Grasas 	16.2 g
+Fibra 	3.3 g
+Proteína 	43.5 g
+Grasas saturadas 	6.9 g
+Sodio 	788.5 mg
