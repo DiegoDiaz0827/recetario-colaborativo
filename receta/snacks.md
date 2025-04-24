@@ -37,3 +37,20 @@ Para freír:
     Fritura: Calienta aceite abundante a fuego medio. Fríe los tequeños hasta que estén dorados (2–3 minutos). Escúrrelos en papel absorbente.
 
     Horneado: Precalienta el horno a 180°C y hornea por 15–20 minutos (hasta que doren).
+
+# INFORMACION NUTRICIONAL
+    Calorías: 80–100 kcal
+
+    Grasas: 4–6 g (depende del queso y fritura)
+
+        Grasas saturadas: 2–3 g
+
+    Carbohidratos: 7–9 g
+
+        Fibra: 0.3 g
+
+        Azúcares: 0.5 g (si no se añade azúcar a la masa)
+
+    Proteínas: 3–4 g (principalmente del queso)
+
+    Sodio: 100–150 mg (varía según el queso y la sal añadida)
