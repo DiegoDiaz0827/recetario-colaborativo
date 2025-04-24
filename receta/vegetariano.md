@@ -1,1 +1,2 @@
 # Revuelto vegano de tofu
+es un plato vegano que se asemeja en apariencia y, a menudo, en sabor a los huevos revueltos. Se elabora principalmente con tofu desmenuzado y se sazona con diversas especias y condimentos para darle un sabor similar al del huevo.
