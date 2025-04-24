@@ -35,3 +35,12 @@ PASO 6 Llena los moldes individuales con la mezcla
 
     6.Esta es una receta que podés servir fría o caliente. Vierte la mezcla en 8 porciones iguales y, para decorar, espolvoreá canela molida sobre el arroz con leche. ¡Hacer arroz con leche nunca había sido tan fácil! "
 
+# INFORMACION NUTRICIONAL
+Carbohidratos 	41.3 g
+Energía 	271.4 kcal
+Grasas 	8.5 g
+Fibra 	0.5 g
+Proteína 	5.6 g
+Grasas saturadas 	4.7 g
+Sodio 	67.5 mg
+Azúcares 	12.2 g
