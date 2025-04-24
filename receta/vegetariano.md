@@ -1,2 +1,4 @@
 # Revuelto vegano de tofu
 es un plato vegano que se asemeja en apariencia y, a menudo, en sabor a los huevos revueltos. Se elabora principalmente con tofu desmenuzado y se sazona con diversas especias y condimentos para darle un sabor similar al del huevo.
+# INGREDIENTES
+Ingredientes. 250 g de tofu firme, 1/2 cebolla roja, 1 tallo de apio, 1 trocito de jengibre, 1/2 cucharadita de concentrado de tomate, 1/2 cucharadita de cúrcuma molida, 1/4 cucharadita de comino molido, 1 pizca de pimentón dulce o picante, 1 chorrito de vino blanco, ralladura de limón, un poco de agua, pimienta negra, sal, perejil o cilantro fresco, aceite de oliva virgen extra.
