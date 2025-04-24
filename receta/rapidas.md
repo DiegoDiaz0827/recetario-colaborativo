@@ -34,3 +34,22 @@ Preparación de la Big Mac:
         Tapa del Pan: Finalmente, se coloca la tapa del pan tostado encima del segundo patty.
 
     Servir: La Big Mac se sirve inmediatamente después de ser ensamblada para asegurar que esté caliente y los ingredientes frescos.
+
+# INFORMACION NUTRICIONAL
+    Calorías: 550 kcal
+    Grasa Total: 30 g
+        Grasa Saturada: 10 g
+        Grasa Trans: 1 g
+    Colesterol: 80 mg
+    Sodio: 970 mg
+    Carbohidratos Totales: 46 g
+        Fibra Dietética:** 3 g
+        Azúcares Totales:** 9 g (incluye azúcares añadidos)
+    Proteínas: 25 g
+
+Desglose Adicional (aproximado):
+
+    Vitamina A: 150 UI
+    Vitamina C: 1 mg
+    Calcio: 115 mg
+    Hierro: 3 mg
