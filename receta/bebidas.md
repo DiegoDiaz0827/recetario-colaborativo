@@ -37,3 +37,24 @@ Es una bebida italiana hecha con:
 
         Espolvorea cacao en polvo, canela o dibuja un corazón con sirope de chocolate.
 
+# INFORMACION NUTRICIONAL
+Valores Aproximados por Porción:
+
+    Calorías: 80–120 kcal
+
+    Grasas Totales: 4–6 g
+
+        Grasas saturadas: 2.5–3 g
+
+    Carbohidratos: 6–8 g
+
+        Azúcares naturales (de la leche): 5–6 g
+
+        Fibra: 0 g
+
+    Proteínas: 4–5 g
+
+    Calcio: 15–20% de la ingesta diaria recomendada (IDR)
+
+    Cafeína: 63–75 mg (dependiendo del espresso).
+
