@@ -4,7 +4,7 @@
 
 ## Categorías
 
-* [Desayunos](receta/desayunos.md)
+* [Desayunos](https://github.com/DiegoDiaz0827/recetario-colaborativo/blob/main/receta/desayunos.md)
 * [Almuerzos](receta/almuerzos.md)
 * [Cenas](receta/cenas.md)
 * [Postres](receta/postres.md)
